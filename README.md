@@ -1,9 +1,9 @@
 ### Descrição do projeto
 
-# :trollface: Meme Maker :trollface:
+# Meme Maker
 
 - 📋 O projeto consiste em site para criar memes.  
-- 💠 Demo : https://glasses-demo.netlify.app/
+- 💠 Demo : https://meme-maker-demo.netlify.app/
 
 ## 💻 Principais Tecnologias
 
